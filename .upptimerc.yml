@@ -12,7 +12,7 @@ status-website:
   cname: status.trieu.pro
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Trieu.Pro Status
+  name: Uptime Status
   introTitle: "**System Status**"
   introMessage: This is the system status.
   navbar:
