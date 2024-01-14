@@ -4,17 +4,19 @@
     "url": "https://trieu.pro",
     "icon": "https://icons.duckduckgo.com/ip3/trieu.pro.ico",
     "slug": "my-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1246,
-    "timeDay": 1434,
-    "timeWeek": 1360,
-    "timeMonth": 1308,
-    "timeYear": 1246,
-    "dailyMinutesDown": {}
+    "timeDay": 1289,
+    "timeWeek": 1333,
+    "timeMonth": 1303,
+    "timeYear": 1245,
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   }
 ]
