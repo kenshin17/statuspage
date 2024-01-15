@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trieu.pro.ico",
     "slug": "my-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1246,
-    "timeDay": 1289,
-    "timeWeek": 1333,
-    "timeMonth": 1303,
+    "uptime": "99.78%",
+    "uptimeDay": "12.84%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "99.76%",
+    "time": 1245,
+    "timeDay": 1115,
+    "timeWeek": 1337,
+    "timeMonth": 1308,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-15": 34,
+      "2024-01-14": 1221
     }
   }
 ]
