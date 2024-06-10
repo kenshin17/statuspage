@@ -1,8 +1,8 @@
 [
   {
     "name": "My Site",
-    "url": "https://trieu.pro",
-    "icon": "https://icons.duckduckgo.com/ip3/trieu.pro.ico",
+    "url": "https://trieuvt.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/trieuvt.dev.ico",
     "slug": "my-site",
     "status": "up",
     "uptime": "99.42%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.14%",
     "time": 1232,
-    "timeDay": 647,
-    "timeWeek": 680,
-    "timeMonth": 1099,
-    "timeYear": 1229,
+    "timeDay": 1006,
+    "timeWeek": 756,
+    "timeMonth": 1106,
+    "timeYear": 1230,
     "dailyMinutesDown": {
       "2024-06-02": 39,
       "2024-05-29": 49,
